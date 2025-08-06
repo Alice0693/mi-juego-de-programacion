@@ -51,7 +51,8 @@ mi-juego-de-programacion/ ├── index.html ├── style.css ├── app
 Agrega aquí imágenes que muestren tu proyecto en acción. Puedes subirlas a la carpeta `assets/` y luego enlazarlas así:
 
 ![Pantalla principal](assets/pantalla-principal.png)  
-![Resultado del sorteo](assets/resultado-sorteo.png)
+![Lista de participantes](assets/lista-de-participantes.png) 
+![Resultado del sorteo](assets/resultado-del-sorteo.png)
 
 ---
 
